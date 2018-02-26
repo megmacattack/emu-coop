@@ -7,5 +7,7 @@ modes = {
 	require "modes.super_metroid",
 	require "modes.tloz_basic",
 	require "modes.tloz_progress",
-	require "modes.tloz_all"
+	require "modes.tloz_all",
+	require "modes.tloz_and_z2_share",
+	require "modes.z2_and_tloz_share"
 }
